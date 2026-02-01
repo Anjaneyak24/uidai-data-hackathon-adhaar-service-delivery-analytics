@@ -4,12 +4,11 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Client Requirements](#client-requirements)
 - [Dataset Details](#dataset-details)
 - [Tools & Technologies](#tools--technologies)
 - [Methodology](#methodology)
 - [Project Structure](#project-structure)
-- [Python Visualization](#python-visualization)
+- [Python EDA Visualization](#python-eda-visualization)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [ Conclusion](#conclusion)
@@ -30,19 +29,6 @@ The study focuses on identifying disparities in age-group coverage, trends in Ne
 
 The overarching objective is to transform complex Aadhaar datasets into actionable, evidence-based insights that can support informed policy formulation, targeted governance interventions, and system optimisation, thereby contributing to a more inclusive, efficient, and responsive digital identity ecosystem in India.
 
-## Client Requirements
-
-1. Superstore Performance Dashboard
-
-Design an interactive Superstore Performance Dashboard that presents a consolidated view of overall sales performance. The dashboard should display key KPIs including Total Sales, Total Profit, Total Quantity, and Average Discount (%). It should visualize sales by category, sales by product name, sales by region, and state-wise sales using a map, along with sales distribution by payment mode and monthly sales trends. The dashboard should support interactive filtering through region, category, and delivery status slicers.
-
-2. Inventory & Supplier Dashboard
-
-Develop an Inventory & Supplier Dashboard that provides visibility into inventory status and supplier details. The dashboard should display KPIs such as Sum of Stock Left, Average Reorder Quantity, and Count of Stock Left. It should include visualizations for reorder quantity by month, stock left by product category, and auto-reorder distribution. A detailed table should be available showing supplier name, category, product name, and unit price.
-
-3. Customer & Delivery Insights Dashboard
-
-Design a Customer & Delivery Insights Dashboard that highlights customer and delivery-related metrics. The dashboard should display KPIs such as Total Customers, Average Order Quantity, and Payment Mode. It should include visualizations for sales by region, profit by region, profit by customer segment, and state-wise sales using a map. The dashboard should support interactive slicers for region, category, and payment mode.
 
 ## Dataset Details
 Source of data: event.data.gov.in
@@ -139,7 +125,7 @@ Tracks biometric update activity across regions, age groups, and months, reveali
 ![Demographic Update Enrol](snapshots/Demographic%20Update%20Enrol.png)
 ![Biometric Update Enrol](snapshots/Biometric%20Update%20Enrol.png)
 
-## Python Visualization
+## Python EDA Visualization
 ![State-wise New Aadhaar Enrol](snapshots/State-wise%20New%20Aadhaar%20Enrol.png)
 ![State-wise Demograpgic Enrol](snapshots/State-wise%20Demograpgic%20Enrol.png)
 ![State-wise Biometric Enrol](snapshots/State-wise%20Biometric%20Enrol.png)
@@ -207,5 +193,4 @@ Note: Full Aadhaar datasets exceed GitHub’s file size limits. Hence, sample da
 _Data Analyst_  
 📧 Email: anjaneya.data@gmail.com
 
-Phone No. : 8123499976#   u i d a i - d a t a - h a c k a t h o n - a d h a a r - s e r v i c e - d e l i v e r y - a n a l y t i c s  
- 
+Phone No. : 8123499976
