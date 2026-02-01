@@ -34,15 +34,14 @@ The overarching objective is to transform complex Aadhaar datasets into actionab
 Source of data: event.data.gov.in
 
  Raw Dataset Size: overall 4.84 Million records
-
-1. New Adhar Enrolment Dataset (1006029 rows * 7 columns)
-2. Demographic Update Dataset (2071700 rows * 6 columns)
-3. Biometric Enrolment Dataset (1766212 rows * 6 columns)
+1. New Adhar Enrolment Dataset (1006029 (1.0 M) rows, 7 columns)
+2. Demographic Update Dataset (2071700 (2.071 M) rows, 6 columns)
+3. Biometric Enrolment Dataset (1766212 (1.76 M) rows, 6 columns)
 
 Cleaned Dataset Size: Overall 4.34 Million records
-1. New Adhar Enrolment Dataset (983072 rows * 14 columns)
-2. Demographic Update Dataset (1598097 rows * 13 columns)
-3. Biometric Enrolment Dataset (1861108 rows * 13 columns)
+1. New Adhar Enrolment Dataset (983072 (0.98 M) rows, 14 columns)
+2. Demographic Update Dataset (1598097 (1.59 M) rows, 13 columns)
+3. Biometric Enrolment Dataset (1861108 (1.86 M) rows, 13 columns)
 
 Key fields/variables: date, state, district, pincode, month_ name, Children(0-17) Age, Adult(18+) Age
 
